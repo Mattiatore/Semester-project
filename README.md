@@ -1,3 +1,2 @@
 # Semester-project
-Numerical experiments
-Mattia Mariantoni with assistance of professor Lénaïc Chizat.
+Numerical experiments of Mattia Mariantoni with assistance of professor Lénaïc Chizat.
