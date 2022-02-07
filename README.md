@@ -1,6 +1,5 @@
 # Semester-project
-In this project we focus on shallow neural networks, only two-layers deep, dif-
-ferently than the common setting in which models are trained on datasets with
+In this project we focus on shallow neural networks, only two-layers deep, differently than the common setting in which models are trained on datasets with
 predefined labels, we focused on the teacher-student framework and assume a
 teacher network model, also known as oracle, to provide the labels for given
 instances. The main objective is to utilize numerical experiments and prove
